@@ -1,2 +1,1 @@
-# Hacktoberfest
 Made by Komal
